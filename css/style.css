@@ -5,7 +5,6 @@
 
 
 body {
-    background: url("img/bg.gif");
     background: url("https://raw.githubusercontent.com/sarmad640/MSIC/main/img/bg.gif");
     
 }
@@ -55,7 +54,7 @@ nav ul li {
     width: 70%;
     border-radius: 12px;
     padding: 34px;
-    background-image: url("img/bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/sarmad640/MSIC/main/img/bg.jpg");
     /* position: sticky; */
 }
 
